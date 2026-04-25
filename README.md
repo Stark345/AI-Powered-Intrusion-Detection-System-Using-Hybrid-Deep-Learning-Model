@@ -1,0 +1,2 @@
+# AI-Powered-Intrusion-Detection-System-Using-Hybrid-Deep-Learning-Model
+A hybrid cybersecurity project that detects network attacks using CNN, LSTM, autoencoder, and transformer models. It uses SMOTE for class balancing, Softmax for classification, and SHAP/LIME for explainable AI. Designed for accurate, scalable, and transparent intrusion detection on benchmark datasets like NSL-KDD and CICIDS2017.
