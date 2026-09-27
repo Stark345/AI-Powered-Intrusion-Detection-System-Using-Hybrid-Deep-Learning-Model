@@ -1,6 +1,7 @@
 ﻿# Large raw datasets (downloaded automatically or stored locally)
 *.arff
 *.txt
+!requirements.txt
 *.csv
 nsl-kdd/
 data/
@@ -31,3 +32,4 @@ index.html
 DataCleaningWeka.java
 *.jpg
 *.png
+
