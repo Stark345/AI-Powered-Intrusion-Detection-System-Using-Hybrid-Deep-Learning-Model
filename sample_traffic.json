@@ -1,0 +1,30 @@
+{
+  "normal_packet": {
+    "duration": 0,
+    "protocol_type": "tcp",
+    "service": "http",
+    "flag": "SF",
+    "src_bytes": 215,
+    "dst_bytes": 45076,
+    "count": 1,
+    "srv_count": 1,
+    "serror_rate": 0.0,
+    "same_srv_rate": 1.0,
+    "diff_srv_rate": 0.0,
+    "logged_in": 1
+  },
+  "dos_attack_packet": {
+    "duration": 0,
+    "protocol_type": "tcp",
+    "service": "private",
+    "flag": "S0",
+    "src_bytes": 0,
+    "dst_bytes": 0,
+    "count": 256,
+    "srv_count": 18,
+    "serror_rate": 1.0,
+    "same_srv_rate": 0.07,
+    "diff_srv_rate": 0.06,
+    "logged_in": 0
+  }
+}

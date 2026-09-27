@@ -1,0 +1,33 @@
+﻿# Large raw datasets (downloaded automatically or stored locally)
+*.arff
+*.txt
+*.csv
+nsl-kdd/
+data/
+
+# Model checkpoints & pickled scalers
+*.h5
+*.keras
+*.pkl
+*.joblib
+
+# Python bytecode & environments
+__pycache__/
+*.pyc
+*.pyo
+venv/
+.venv/
+.pytest_cache/
+
+# Jupyter Checkpoints
+.ipynb_checkpoints/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Dataset web documentation & legacy files
+index.html
+DataCleaningWeka.java
+*.jpg
+*.png
